@@ -16,33 +16,7 @@ o2=-1.529;
 pres1=4*(r0/4-o1)
 pres2=4*(r0/4-o2)
 
-%Change -14 to DH r0(integer)
-% set(gca,'FontSize',18)
-% set(gca,'XTick',[-11:2:0])
-% set(gca,'YTick',[-11:2:0])
-% set(gca,'ZTick',[-11:2:0])
-%  
-% %Below 3 lines for different k for Zn
-% rk2=-14.20;
-% r22=rk2/2
-% p22=r0-r22
-% c22=(4*rk2-5*r0)/3
-% 
-% rk3=-17.17;
-% r33=rk3/3
-% p33=r0-r33
-% c33=(4*rk3-6*r0)/6
-% 
-% rk4=-20.06;
-% r44=rk4/4
-% p44=r0-r44
-% c44=(4*rk4-7*r0)/9
-% 
-% %ZnGa2O4
-% rk5=-12.51;
-% r55=rk5/2
-% p55=r0-r55
-% c55=rk5-r0
+
 %Calculating the deltaMU of Binaries:
 mu1=r1/2;
 mu2=r2/2;
