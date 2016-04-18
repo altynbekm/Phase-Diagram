@@ -126,12 +126,6 @@ Opoor=fill3(x6,y6,z6,'y');
 % M2=fill3(x55,y55,z55, 'b');
 
 
-% cc=fill3([-8.2,-4.1,-4.1],[-1.7,-5.79,-1.7],[-4.08,-4.1,-8.18],'c');
-% bottom=fill3([ans1(1),ans2(1),ans3(1)],[ans1(2),ans2(2),ans3(2)],[ans1(3),ans2(3),ans3(3)],'r')
-% % 
-%  side1=fill3([top1(1),ans2(1),ans3(1)],[top1(2),ans2(2),ans3(2)],[top1(3),ans2(3),ans3(3)],'r')
-%    side2=fill3([ans1(1),top2(3),ans3(1)],[ans1(2),top2(3),ans3(2)],[ans1(3),top2(3),ans3(3)],'r')
-%    side3=fill3([ans1(1),ans2(1),top3(1)],[ans1(2),ans2(2),top3(2)],[ans1(3),ans2(3),top3(3)],'r')
 
 
  
